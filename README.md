@@ -1,4 +1,5 @@
-# DAX-PRACTICE-Sales-Data-
+# DAX-PRACTICE-Sales-Data
+
 Sales Data DAX practice
 
 1. Total Rows in table. 
