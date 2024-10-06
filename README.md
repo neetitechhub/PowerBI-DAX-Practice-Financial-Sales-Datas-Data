@@ -1,6 +1,6 @@
 # DAX-PRACTICE-Sales-Data
 
-Sales Data DAX practice
+Sales Data DAX practice : The tasks I completed are outlined below.
 
 1. Total Rows in table. 
 2. Total Sales.
